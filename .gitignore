@@ -27,3 +27,4 @@ Makefile
 /src/cfg_parser.h
 /src/cfg_parser.output
 /ylwrap
+/test-driver
