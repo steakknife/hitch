@@ -20,7 +20,6 @@ Makefile
 /depcomp
 /install-sh
 /autom4te.cache
-/hitch.8
 # Flex output files.
 /src/cfg_lex.c
 /src/cfg_parser.c
